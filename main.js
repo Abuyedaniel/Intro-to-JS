@@ -1,3 +1,5 @@
-    console.log("Name: Daniel");
-    console.log("Height:5'5");
-    console.log("Country: Nigeria");
+let Name = "Abuye Daniel Oghenechovwe \n"
+let Height = "5'6 \n"
+let Nationality = "Nigerian \n"
+
+console.log("Name:" ,Name, "Height:" ,Height, "Nationality:" ,Nationality, )
