@@ -1,5 +1,5 @@
 let Name = "Abuye Daniel Oghenechovwe \n"
 let Height = "5 feet 6 inches \n"
-let Country = "Nigeria \n"
+let Country = "Nigeria"
 
-console.log("Name:" ,Name, "Height:" ,Height, "Country:" ,Country)
+alert("Name: " + Name + "Height: " + Height + "Country: " + Country)
